@@ -962,4 +962,10 @@ footer small a:hover {
     width: 200px;
   }
 }
+
+ @media (max-width: 793px) {
+  .border-bottom-cus h1{
+     font-size: 1.3em;
+  }
+}
 /* end: media queries */
